@@ -1,0 +1,6 @@
+{
+  "name": "TradeX Demo",
+  "description": "Unlimited virtual and paper trading app with live tick simulation, charts, portfolio tracking, and daily analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
